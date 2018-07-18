@@ -1,0 +1,18 @@
+h1 {
+  color: #ff6700; }
+
+p {
+  color: #ff6700; }
+
+a {
+  color: #ff6700;
+  font-size: #main-ft; }
+
+a visited {
+  color: green;
+  font-size: 23px; }
+
+.side-note {
+  width: 50%; }
+
+/*# sourceMappingURL=main.css.map */

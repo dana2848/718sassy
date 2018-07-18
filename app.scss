@@ -1,0 +1,28 @@
+$main-bg-color: #e5e5e5;
+$brand-color: #ff6700;
+$main-ft: 23px;
+$half: 50%;
+
+
+
+h1 {
+  color:$brand-color;
+}
+
+p {
+  color:$brand-color;
+}
+
+a {
+  color: $brand-color;
+  font-size: #main-ft;
+}
+
+a visited {
+  color: green;
+  font-size: $main-ft;
+}
+
+.side-note {
+  width: $half;
+}
