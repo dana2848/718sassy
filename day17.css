@@ -1,0 +1,22 @@
+input[type='text'] {
+  background-color: red;
+}
+
+#signup > .labels {
+font-size: 44px;
+}
+
+input[type='submit'] {
+  background-color: green;
+  color: white;
+  padding: 10 px;
+  border-radius: 9px;
+}
+form p {
+  color: red;
+}
+
+
+form p::before {
+  content: 'wallo';
+}

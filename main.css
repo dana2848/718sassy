@@ -15,4 +15,13 @@ a visited {
 .side-note {
   width: 50%; }
 
+h1 {
+  font-family: 'Coda Caption', sans-serif;
+}
+
+.paper {
+  font-size: 45px;
+}
 /*# sourceMappingURL=main.css.map */
+
+/* 루비 터미널 가서 sass app.scss main.css */
